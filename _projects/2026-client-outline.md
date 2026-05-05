@@ -20,6 +20,7 @@ header-includes:
 
 - [Client Pitch](#swatr-a-scalable-robotic-lanternfly-removal-attachment)
 - [Functional Prototype](#functional-prototype)
+- [Client Report](#client-report)
 
 # SWATR: A Scalable Robotic Lanternfly Removal Attachment
 **Team:** The Bug Busting Crew  
@@ -177,3 +178,8 @@ Results:
 
 Conclusion:
 Despite the objects all being similar weight, the ones that were physically “wider” along the gripper’s direction were far more difficult to hold, as they had a tendency to want to “roll out” from between the grabbers. We believe this to largely be due to the fact that the grippers are fairly small flat paddles, and the farther they are apart, the more they try to push objects out, rather than hold them flat to eachother. Changing the paddles shape, either adding teeth, a curvature, or making it a frame with a compliant mesh inside might be more conducive to catching and retaining small, bug-shaped objects. Mesh will probably be more reliable overall, as the bugs will not have any way to exert force on the paddles to wriggle out. Also, slightly larger paddles would likely help.
+
+---
+
+# Client Report
+
