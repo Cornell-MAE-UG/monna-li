@@ -182,4 +182,9 @@ Despite the objects all being similar weight, the ones that were physically “w
 ---
 
 # Client Report
-
+![Photo of old radio]({{ "/assets/images/client-report1.png" | relative_url }}){: style="width: 600px"}
+![Photo of old radio]({{ "/assets/images/client-report2.png" | relative_url }}){: style="width: 600px"}
+![Photo of old radio]({{ "/assets/images/client-report3.png" | relative_url }}){: style="width: 600px"}
+![Photo of old radio]({{ "/assets/images/client-report4.png" | relative_url }}){: style="width: 600px"}
+![Photo of old radio]({{ "/assets/images/client-report5.png" | relative_url }}){: style="width: 600px"}
+![Photo of old radio]({{ "/assets/images/client-report6.png" | relative_url }}){: style="width: 600px"}
