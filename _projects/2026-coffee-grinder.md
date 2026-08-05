@@ -3,7 +3,7 @@ layout: project
 title: Coffee Grinder Design
 description: Class Assignment
 technologies: [Autodesk Fusion]
-image: /assets/images/actuator-mechanism.png
+image: /assets/images/coffee-grinder.png
 ---
 
 Link to view on Autodesk Fusion: https://a360.co/4fOb6UM
